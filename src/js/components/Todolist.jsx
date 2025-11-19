@@ -92,9 +92,6 @@ export const Todolist = () => {
         getLosToDos()
     };
 
-
-
-
     useEffect(() => {
         getLosToDos()
     }, [])
