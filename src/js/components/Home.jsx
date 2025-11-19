@@ -2,7 +2,6 @@ import React from "react";
 import { Todolist } from "./Todolist";
 import { Navbar } from "./Navbar";
 import { Card } from "./Img/Card";
-import { Footer } from "./Footer";
 
 //create your first component
 const Home = () => {

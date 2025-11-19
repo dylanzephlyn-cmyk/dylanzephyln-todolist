@@ -34,8 +34,8 @@ export const Card = () => {
 
     return (
         <div className="container-fluid d-flex justify-content-center my-5">
-            <div class="card col-6">
-                <div class="card-body">
+            <div className="card col-6">
+                <div className="card-body">
                     <p>"{current.quote}"</p>
                 </div>
                 <div className="card-footer d-flex justify-content-between">
